@@ -1,2 +1,2 @@
 # Ecommerce
-Ecommerce Website Using Next JS , Tailwind CSS 
+Ecommerce Website Using React JS, Tailwind CSS, Mongo DB  
